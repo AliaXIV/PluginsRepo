@@ -1,0 +1,38 @@
+[
+  {
+    "Author": "AliaXIV",
+    "Name": "XIVGearExporter",
+    "Punchline": "Export your gear to XIVGear directly from the game!",
+    "Description": "Use /xivgearexport to export current equipped gear to JSON in XIVGear format",
+    "Tags": ["gear", "gearset", "xivgear"],
+    "InternalName": "XIVGearExporter",
+    "RepoUrl": "https://github.com/AliaXIV/XIVGearPlugin",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/AliaXIV/XIVGearPlugin/releases/download/v0.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AliaXIV/XIVGearPlugin/releases/download/v0.0.0.1/latest.zip",
+    "AssemblyVersion": "0.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Changelog": "Updated to Dalamud API v15",
+    "IconUrl": ""
+  },
+  {
+    "Author": "AliaXIV",
+    "Name": "Kefka Helper",
+    "Punchline": "Helper plugin assisting with some of DMU/UMAD/Kefka Ultimate mechanics",
+    "Description": "TBA",
+    "Tags": ["ultimate", "dmu", "umad"],
+    "InternalName": "KefkaHelper",
+    "RepoUrl": "https://github.com/AliaXIV/KefkaHelper",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/AliaXIV/KefkaHelper/releases/download/v0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AliaXIV/KefkaHelper/releases/download/v0.0.1/latest.zip",
+    "AssemblyVersion": "0.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Changelog": "Updated to Dalamud API v15",
+    "IconUrl": ""
+  }
+]
