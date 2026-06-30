@@ -27,12 +27,12 @@
     "RepoUrl": "https://github.com/AliaXIV/KefkaHelper",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/AliaXIV/KefkaHelper/releases/download/v0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AliaXIV/KefkaHelper/releases/download/v0.0.1/latest.zip",
-    "AssemblyVersion": "0.0.0.1",
+    "DownloadLinkInstall": "https://github.com/AliaXIV/KefkaHelper/releases/download/v0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AliaXIV/KefkaHelper/releases/download/v0.0.2/latest.zip",
+    "AssemblyVersion": "0.0.0.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Changelog": "Updated to Dalamud API v15",
+    "Changelog": "Added automarker + some configuration options",
     "IconUrl": ""
   }
 ]
